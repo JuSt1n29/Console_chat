@@ -114,7 +114,7 @@ Enter the server IP address and your username.
 For example:
 
 ```text
-Server IP: 192.168.1.100
+Server IP: x.x.x.x
 Username: user
 ```
 
